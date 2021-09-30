@@ -6,7 +6,7 @@ namespace Nasled
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Worlld!");
+            Console.WriteLine("Hello Worllld!");
         }
     }
 }
