@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\Nasled\obj\Debug\net5.0\Nasled.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Nasled\obj\Debug\net5.0\Nasled.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Nasled\obj\Debug\net5.0\Nasled.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Nasled\obj\Debug\net5.0\Nasled.AssemblyInfo.cs
+C:\Users\student\Desktop\Nasled\obj\Debug\net5.0\Nasled.csproj.CoreCompileInputs.cache
